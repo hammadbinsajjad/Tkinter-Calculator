@@ -10,4 +10,4 @@ NOTE: If the command doesn't work, try `python3 main.py`
 
 ## Credits
 
-This project was made following the course from [GUI programming: Create a Calculator in Python](https://www.coursera.org/projects/gui-programming-calculator-python?) on [Coursera](https://www.coursera.org/)
+This project was made following the project from [GUI programming: Create a Calculator in Python](https://www.coursera.org/projects/gui-programming-calculator-python?) on [Coursera](https://www.coursera.org/)
